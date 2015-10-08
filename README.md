@@ -14,6 +14,11 @@ Include in your `README.md`:
 ```
 
 
+## Alternatives
+
+Someone forced you to write tests and run them on a CI environment? Try [the Volkswagen approach](https://github.com/auchenberg/volkswagen). 
+
+
 ## License
 
 MIT
