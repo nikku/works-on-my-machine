@@ -1,6 +1,6 @@
 # Works on my Machine
 
-[![works on my machine badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.3.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
+[![works on my machine badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.4.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
 
 __TLDR:__ This project works well on my machine. It may or may not work on your machine, too.
 
@@ -10,7 +10,7 @@ __TLDR:__ This project works well on my machine. It may or may not work on your 
 Include in your `README.md`:
 
 ```markdown
-[![works on my machine badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.3.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
+[![works on my machine badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.4.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
 ```
 
 
